@@ -43,7 +43,7 @@ wuling_01.glb,   wuling_01_albedo.png,    wuling_01_normal.png
     </tr>
     <tr>
         <td>Texture (Evil Albedo)</td>
-        <td>bob_evil_albedo.png</td>
+        <td>bob_albedo_evil.png</td>
     </tr>
 </table>
 
